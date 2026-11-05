@@ -26,6 +26,11 @@ Baixe o `.zip` da palavra que você comentou. Cada um traz 3 arquivos: a skill, 
 | AGENTE | [agente-tira-o-repetitivo.zip](zips/agente-tira-o-repetitivo.zip) | Tira de você o que não precisa ser você |
 | MOCKUP | [posts-com-cara-de-agencia.zip](zips/posts-com-cara-de-agencia.zip) | Ícones 3D e mockups, sem gastar crédito |
 
+## Bastidor
+| Skill | Para quê |
+|---|---|
+| [agendar-reels-sozinho.zip](zips/agendar-reels-sozinho.zip) | A semana de Reels postando sozinha, com palavra e material de cada vídeo |
+
 ## Skills de base
 | Skill | Para quê |
 |---|---|
