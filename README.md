@@ -26,6 +26,8 @@ Baixe o `.zip` da palavra que você comentou. Cada um traz 3 arquivos: a skill, 
 | AGENTE | [agente-tira-o-repetitivo.zip](zips/agente-tira-o-repetitivo.zip) | Tira de você o que não precisa ser você |
 | MOCKUP | [posts-com-cara-de-agencia.zip](zips/posts-com-cara-de-agencia.zip) | Ícones 3D e mockups, sem gastar crédito |
 | SKILLS | [pasta-de-skills.zip](zips/pasta-de-skills.zip) | A pasta de skills grátis por área e qual instalar primeiro |
+| PROMPTER | [meu-teleprompter.zip](zips/meu-teleprompter.zip) | Teleprompter próprio que abre no celular |
+| ÍCONES | [icones-3d-gratis.zip](zips/icones-3d-gratis.zip) | Ícones 3D coloridos, sem gastar crédito |
 
 ## Bastidor
 | Skill | Para quê |
