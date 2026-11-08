@@ -25,6 +25,7 @@ Baixe o `.zip` da palavra que você comentou. Cada um traz 3 arquivos: a skill, 
 | TV | [limpar-a-tv.zip](zips/limpar-a-tv.zip) | Limpa uma Android TV com o Clean Your TV |
 | AGENTE | [agente-tira-o-repetitivo.zip](zips/agente-tira-o-repetitivo.zip) | Tira de você o que não precisa ser você |
 | MOCKUP | [posts-com-cara-de-agencia.zip](zips/posts-com-cara-de-agencia.zip) | Ícones 3D e mockups, sem gastar crédito |
+| SKILLS | [pasta-de-skills.zip](zips/pasta-de-skills.zip) | A pasta de skills grátis por área e qual instalar primeiro |
 
 ## Bastidor
 | Skill | Para quê |
