@@ -31,6 +31,7 @@ Baixe o `.zip` da palavra que você comentou. Cada um traz 3 arquivos: a skill, 
 | Skill | Para quê |
 |---|---|
 | [agendar-reels-sozinho.zip](zips/agendar-reels-sozinho.zip) | A semana de Reels postando sozinha, com palavra e material de cada vídeo |
+| MÁQUINA | [pergunta-do-nao.zip](zips/pergunta-do-nao.zip) | Reescreve sua mensagem para o "não" fazer a conversa andar |
 
 ## Skills de base
 | Skill | Para quê |
