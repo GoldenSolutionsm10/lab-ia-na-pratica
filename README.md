@@ -28,6 +28,7 @@ Baixe o `.zip` da palavra que você comentou. Cada um traz 3 arquivos: a skill, 
 | SKILLS | [pasta-de-skills.zip](zips/pasta-de-skills.zip) | A pasta de skills grátis por área e qual instalar primeiro |
 | PROMPTER | [meu-teleprompter.zip](zips/meu-teleprompter.zip) | Teleprompter próprio que abre no celular |
 | ÍCONES | [icones-3d-gratis.zip](zips/icones-3d-gratis.zip) | Ícones 3D coloridos, sem gastar crédito |
+| GAME | [criar-jogos-com-ia.zip](zips/criar-jogos-com-ia.zip) | 77 skills para o Claude criar jogos em Godot, Unity, Unreal e web |
 
 ## Bastidor
 | Skill | Para quê |
