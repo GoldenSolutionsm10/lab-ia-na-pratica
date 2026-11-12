@@ -29,6 +29,14 @@ Baixe o `.zip` da palavra que você comentou. Cada um traz 3 arquivos: a skill, 
 | PROMPTER | [meu-teleprompter.zip](zips/meu-teleprompter.zip) | Teleprompter próprio que abre no celular |
 | ÍCONES | [icones-3d-gratis.zip](zips/icones-3d-gratis.zip) | Ícones 3D coloridos, sem gastar crédito |
 | GAME | [criar-jogos-com-ia.zip](zips/criar-jogos-com-ia.zip) | 77 skills para o Claude criar jogos em Godot, Unity, Unreal e web |
+| CELULAR | [limpar-o-celular.zip](zips/limpar-o-celular.zip) | Desliga apps de fábrica e propaganda do Android, sem root |
+| APP | [apps-com-expo.zip](zips/apps-com-expo.zip) | Skills oficiais da Expo para criar app de iPhone e Android |
+| TOKEN | [graphify-menos-tokens.zip](zips/graphify-menos-tokens.zip) | Graphify: mapa do projeto para gastar menos tokens |
+| BLENDER | [blender-com-claude.zip](zips/blender-com-claude.zip) | 94 skills para criar cenas e vídeos 3D no Blender |
+| SITE | [sites-sem-cara-de-ia.zip](zips/sites-sem-cara-de-ia.zip) | Hallmark: site premium sem cara de feito por IA |
+| SOM | [som-dos-videos.zip](zips/som-dos-videos.zip) | Música e efeitos com licença e revisão do áudio |
+| TRADER | [mesa-de-trade-com-agentes.zip](zips/mesa-de-trade-com-agentes.zip) | Mesa de análise com agentes de IA, para estudo e simulação |
+| SKILLS (ranking) | [cinco-skills-mais-instaladas.zip](zips/cinco-skills-mais-instaladas.zip) | As 5 skills mais instaladas do Claude Code |
 
 ## Bastidor
 | Skill | Para quê |
