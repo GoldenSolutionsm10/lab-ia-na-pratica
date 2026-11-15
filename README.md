@@ -2,6 +2,11 @@
 
 Skills grátis para usar no Claude (Claude.ai, Claude Code ou qualquer agente que leia `SKILL.md`). Pare de estudar IA. Comece a usar.
 
+## Guias em jogo (passo a passo em fases)
+| Guia | Jogar | Baixar |
+|---|---|---|
+| O Claude agora cuida do seu Instagram | [abrir o jogo](https://claude.ai/artifact/5JhTzwfHWSFa5TRrYE6TCh) | [PDF](guias/instagram-com-claude/guia-instagram-com-claude.pdf) · [mais](guias/instagram-com-claude/) |
+
 ## Veio de um Reel? Ache a sua palavra
 Baixe o `.zip` da palavra que você comentou. Cada um traz 3 arquivos: a skill, como instalar e como usar.
 
