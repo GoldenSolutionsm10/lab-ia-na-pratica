@@ -25,24 +25,24 @@ Baixe o `.zip` da palavra que você comentou. Cada um traz 3 arquivos: a skill, 
 | TV | [limpar-a-tv.zip](zips/limpar-a-tv.zip) | Limpa uma Android TV com o Clean Your TV |
 | AGENTE | [agente-tira-o-repetitivo.zip](zips/agente-tira-o-repetitivo.zip) | Tira de você o que não precisa ser você |
 | MOCKUP | [posts-com-cara-de-agencia.zip](zips/posts-com-cara-de-agencia.zip) | Ícones 3D e mockups, sem gastar crédito |
-| SKILLS | [pasta-de-skills.zip](zips/pasta-de-skills.zip) | A pasta de skills grátis por área e qual instalar primeiro |
-| PROMPTER | [meu-teleprompter.zip](zips/meu-teleprompter.zip) | Teleprompter próprio que abre no celular |
-| ÍCONES | [icones-3d-gratis.zip](zips/icones-3d-gratis.zip) | Ícones 3D coloridos, sem gastar crédito |
 | GAME | [criar-jogos-com-ia.zip](zips/criar-jogos-com-ia.zip) | 77 skills para o Claude criar jogos em Godot, Unity, Unreal e web |
-| CELULAR | [limpar-o-celular.zip](zips/limpar-o-celular.zip) | Desliga apps de fábrica e propaganda do Android, sem root |
-| APP | [apps-com-expo.zip](zips/apps-com-expo.zip) | Skills oficiais da Expo para criar app de iPhone e Android |
-| TOKEN | [graphify-menos-tokens.zip](zips/graphify-menos-tokens.zip) | Graphify: mapa do projeto para gastar menos tokens |
-| BLENDER | [blender-com-claude.zip](zips/blender-com-claude.zip) | 94 skills para criar cenas e vídeos 3D no Blender |
-| SITE | [sites-sem-cara-de-ia.zip](zips/sites-sem-cara-de-ia.zip) | Hallmark: site premium sem cara de feito por IA |
-| SOM | [som-dos-videos.zip](zips/som-dos-videos.zip) | Música e efeitos com licença e revisão do áudio |
-| TRADER | [mesa-de-trade-com-agentes.zip](zips/mesa-de-trade-com-agentes.zip) | Mesa de análise com agentes de IA, para estudo e simulação |
-| SKILLS (ranking) | [cinco-skills-mais-instaladas.zip](zips/cinco-skills-mais-instaladas.zip) | As 5 skills mais instaladas do Claude Code |
+| YOUTUBE | [youtube-sem-anuncio-na-tv.zip](zips/youtube-sem-anuncio-na-tv.zip) | YouTube sem anúncio na TV (SmartTube) |
+| PDF | [pdf-sem-pagar.zip](zips/pdf-sem-pagar.zip) | Mexer em PDF sem pagar (Stirling-PDF) |
+| CABO | [passar-arquivo-sem-cabo.zip](zips/passar-arquivo-sem-cabo.zip) | Passar arquivo do celular para o computador sem cabo (LocalSend) |
+| NITIDA | [foto-antiga-nitida.zip](zips/foto-antiga-nitida.zip) | Deixar foto antiga nítida (Upscayl) |
+| FILME | [sua-netflix-em-casa.zip](zips/sua-netflix-em-casa.zip) | A sua Netflix com os seus filmes (Jellyfin) |
+| LOCAL | [ia-no-seu-computador.zip](zips/ia-no-seu-computador.zip) | IA rodando no seu computador, sem internet (Ollama) |
+| LIMPA | [limpar-programas-do-pc.zip](zips/limpar-programas-do-pc.zip) | Tirar os programas inúteis do PC de uma vez (Bulk Crap Uninstaller) |
+| BLOQUEIO | [bloquear-propaganda-da-casa.zip](zips/bloquear-propaganda-da-casa.zip) | Bloquear propaganda em todo aparelho da casa (Pi-hole) |
+| AUDIO | [audio-vira-texto.zip](zips/audio-vira-texto.zip) | Áudio longo vira texto, sem internet (Buzz) |
+| EMAIL | [limpar-o-email.zip](zips/limpar-o-email.zip) | Limpar o e-mail e cancelar propaganda (Inbox Zero) |
+| ESPAÇO | [liberar-espaco-no-pc.zip](zips/liberar-espaco-no-pc.zip) | Liberar espaço achando fotos repetidas (Czkawka) |
+| GALERIA | [guardar-fotos-em-casa.zip](zips/guardar-fotos-em-casa.zip) | O seu Google Fotos em casa (Immich) |
 
 ## Bastidor
 | Skill | Para quê |
 |---|---|
 | [agendar-reels-sozinho.zip](zips/agendar-reels-sozinho.zip) | A semana de Reels postando sozinha, com palavra e material de cada vídeo |
-| MÁQUINA | [pergunta-do-nao.zip](zips/pergunta-do-nao.zip) | Reescreve sua mensagem para o "não" fazer a conversa andar |
 
 ## Skills de base
 | Skill | Para quê |
