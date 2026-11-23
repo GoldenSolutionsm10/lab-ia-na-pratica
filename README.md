@@ -25,7 +25,7 @@ Baixe o `.zip` da palavra que você comentou. Cada um traz 3 arquivos: a skill, 
 | LUNA | [atendente-24h-whatsapp.zip](zips/atendente-24h-whatsapp.zip) | Atendente de IA que responde à meia-noite |
 | CHATBOT | [comentario-direct-chatbotx.zip](zips/comentario-direct-chatbotx.zip) | Comentou a palavra, recebeu o direct |
 | ADV | [escritorio-atendido-24h.zip](zips/escritorio-atendido-24h.zip) | Atendimento 24 horas para escritório de advocacia |
-| GUIA | [guia-ia-no-atendimento.zip](zips/guia-ia-no-atendimento.zip) | Usar IA além de escrever, começando pelo atendimento |
+| GUIA | [animar-videos-com-claude.zip](zips/animar-videos-com-claude.zip) | Animar vídeos com o Claude em 5 passos (o guia antigo de atendimento segue em [guia-ia-no-atendimento.zip](zips/guia-ia-no-atendimento.zip)) |
 | DEV | [claude-code-senior.zip](zips/claude-code-senior.zip) | 5 ferramentas para o Claude Code programar melhor |
 | TV | [limpar-a-tv.zip](zips/limpar-a-tv.zip) | Limpa uma Android TV com o Clean Your TV |
 | AGENTE | [agente-tira-o-repetitivo.zip](zips/agente-tira-o-repetitivo.zip) | Tira de você o que não precisa ser você |
@@ -43,6 +43,9 @@ Baixe o `.zip` da palavra que você comentou. Cada um traz 3 arquivos: a skill, 
 | EMAIL | [limpar-o-email.zip](zips/limpar-o-email.zip) | Limpar o e-mail e cancelar propaganda (Inbox Zero) |
 | ESPAÇO | [liberar-espaco-no-pc.zip](zips/liberar-espaco-no-pc.zip) | Liberar espaço achando fotos repetidas (Czkawka) |
 | GALERIA | [guardar-fotos-em-casa.zip](zips/guardar-fotos-em-casa.zip) | O seu Google Fotos em casa (Immich) |
+| ESTILOS | [estilos-de-animacao.zip](zips/estilos-de-animacao.zip) | 10 estilos de animação no Claude, com o prompt de cada um |
+| TRUQUES | [truques-do-chatgpt.zip](zips/truques-do-chatgpt.zip) | 5 atalhos de foto: /restaurar, /cabelo, /remover, /miniatura e /envelopar |
+| VIRAL | [guia-de-roteiros-virais.zip](zips/guia-de-roteiros-virais.zip) | Guia de roteiros de Reels: gancho, corpo, chamada e checklist |
 
 ## Bastidor
 | Skill | Para quê |
