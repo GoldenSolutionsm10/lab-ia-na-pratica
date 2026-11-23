@@ -25,7 +25,7 @@ Baixe o `.zip` da palavra que você comentou. Cada um traz 3 arquivos: a skill, 
 | LUNA | [atendente-24h-whatsapp.zip](zips/atendente-24h-whatsapp.zip) | Atendente de IA que responde à meia-noite |
 | CHATBOT | [comentario-direct-chatbotx.zip](zips/comentario-direct-chatbotx.zip) | Comentou a palavra, recebeu o direct |
 | ADV | [escritorio-atendido-24h.zip](zips/escritorio-atendido-24h.zip) | Atendimento 24 horas para escritório de advocacia |
-| GUIA | [animar-videos-com-claude.zip](zips/animar-videos-com-claude.zip) | Animar vídeos com o Claude em 5 passos (o guia antigo de atendimento segue em [guia-ia-no-atendimento.zip](zips/guia-ia-no-atendimento.zip)) |
+| GUIA | [animar-videos-com-claude.zip](zips/animar-videos-com-claude.zip) | Animar vídeos com o Claude em 5 passos (o guia de IA no atendimento continua no repositório) |
 | DEV | [claude-code-senior.zip](zips/claude-code-senior.zip) | 5 ferramentas para o Claude Code programar melhor |
 | TV | [limpar-a-tv.zip](zips/limpar-a-tv.zip) | Limpa uma Android TV com o Clean Your TV |
 | AGENTE | [agente-tira-o-repetitivo.zip](zips/agente-tira-o-repetitivo.zip) | Tira de você o que não precisa ser você |
